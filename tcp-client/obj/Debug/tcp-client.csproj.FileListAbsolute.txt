@@ -1,0 +1,6 @@
+D:\test-programm\tcp\tcp-client\tcp-client\bin\Debug\tcp-client.exe.config
+D:\test-programm\tcp\tcp-client\tcp-client\bin\Debug\tcp-client.exe
+D:\test-programm\tcp\tcp-client\tcp-client\bin\Debug\tcp-client.pdb
+D:\test-programm\tcp\tcp-client\tcp-client\obj\Debug\tcp-client.csprojResolveAssemblyReference.cache
+D:\test-programm\tcp\tcp-client\tcp-client\obj\Debug\tcp-client.exe
+D:\test-programm\tcp\tcp-client\tcp-client\obj\Debug\tcp-client.pdb
